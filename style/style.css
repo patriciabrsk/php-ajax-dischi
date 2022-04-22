@@ -1,0 +1,13 @@
+header {
+    background-color: #2d3a46;
+    height: 50px;
+    width: 100%;
+}
+
+header img {
+    width: 40px;
+}
+
+body {
+    background-color: #1e2d3b;
+}

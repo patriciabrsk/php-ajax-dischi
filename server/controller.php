@@ -16,6 +16,9 @@ Attraverso un’altra chiamata api, filtrare gli album per genere -->
 <?php 
     include_once __DIR__ . '/data.php';
 
-    header();
-    echo json_encode([]);
+    header('Content-Type: application/json');
+    echo json_encode([
+        'results' => $records,
+        'length' => count($records)
+    ]);
 ?>

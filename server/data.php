@@ -1,6 +1,6 @@
 <?php 
 
-    $idschi = [
+    $records = [
         [
             "poster" => "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
             "title" => "New Jersey",
@@ -35,6 +35,34 @@
             "author" => "Iron Maiden",
             "genre" => "Metal",
             "year" => "2000"
+        ],
+        [
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
+            "title" => "One more car, one more raider",
+            "author" => "Eric Clapton",
+            "genre" => "Rock",
+            "year" => "2002"
+        ],
+        [
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
+            "title" => "And Justice for All",
+            "author" => "Metallica",
+            "genre" => "Metal",
+            "year" => "1988"
+        ],
+        [
+            "poster" => "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
+            "title" => "Dave Weckl",
+            "author" => "Metallica",
+            "genre" => "Jazz",
+            "year" => "1994"
+        ],
+        [
+            "poster" => "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
+            "title" => "Bad",
+            "author" => "Michael Jackson",
+            "genre" => "Pop",
+            "year" => "1987"
         ],
     ];
 ?>
