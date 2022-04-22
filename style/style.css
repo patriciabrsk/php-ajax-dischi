@@ -1,6 +1,6 @@
 header {
     background-color: #2d3a46;
-    height: 50px;
+    height: 8vh;
     width: 100%;
 }
 
@@ -10,11 +10,13 @@ header img {
 
 body {
     background-color: #1e2d3b;
-    height: 100%;
     width: 100%;
+}
+
+main {
+    height: 92vh;
 }
 
 main div.card {
     background-color: #2d3a46;
-    height: 300px;
 }

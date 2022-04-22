@@ -44,7 +44,7 @@
             "year" => "2002"
         ],
         [
-            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
+            "poster" => "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
             "title" => "Made in Japan",
             "author" => "Deep Purple",
             "genre" => "Rock",
