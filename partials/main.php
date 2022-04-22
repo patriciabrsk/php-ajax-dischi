@@ -1,3 +1,6 @@
+<?php 
+    include_once __DIR__ . "/../server/data.php"  
+?>
 <main id="app">
     <div class="container d-flex justify-content-center h-100 py-5">
         <div class="row row-cols-5 g-4 mx-5">
