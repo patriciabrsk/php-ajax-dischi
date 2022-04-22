@@ -44,6 +44,13 @@
             "year" => "2002"
         ],
         [
+            "poster" => "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
+            "title" => "Made in Japan",
+            "author" => "Deep Purple",
+            "genre" => "Rock",
+            "year" => "1972"
+        ],
+        [
             "poster" => "https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
             "title" => "And Justice for All",
             "author" => "Metallica",
