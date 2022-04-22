@@ -3,11 +3,13 @@ const app = new Vue({
     data: {
         records: [],
         created() {
-              axios
-                .get("https://flynn.boolean.careers/exercises/api/array/music")
-                .then((response) => {
-                  this.records = response.data.results;
-                });
-            },
+            axios
+            .get("http://localhost:8888/php-ajax-dischi/server/controller.php")
+            .then((response) => {
+                this.records = response.data.results;
+            }).catch((error) => {
+                console.error(error);
+            });
+        },
     },
 });
