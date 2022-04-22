@@ -11,7 +11,7 @@
                         <h5 class="card-title text-white text-uppercase fw-bold">
                             {{ record.title }}
                         </h5>
-                        <h6><{{ record.author }}</h6>
+                        <h6>{{ record.author }}</h6>
                         <p class="mb-0">{{ record.year }}</p>
                     </div>
                 </div>
